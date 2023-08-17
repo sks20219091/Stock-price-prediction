@@ -1,13 +1,11 @@
 ## Stock-price-prediction
 
--The proposed system evaluates the application of the forecast
-system to the real-world scenario and the problems associated with
-the accuracy of the total values provided.
--The high accuracy and profitability was achieved when results of all
-algorithms are combined and considered all factors affecting the
-stock prices.
--This project was designed using Python, Keras , Tensorflow , Linear
-Regression and LSTM ,etc.
+-This project aims to predict the stock price since Stock data is non-stationary, chaotic, random and
+depends on several technical parameters.
+-Datasets are extracted from Yahoo finance and it predicts prices of the stocks more accurately and
+reduces error in prediction using and plot the graph between predicted price and actual price.
+-It is implemented using multiple python libraries such as matplotlib, numpy,pandas,etc and built using
+LSTM model and deployed using Streamlit .
 
 
 ### Techniques Used
