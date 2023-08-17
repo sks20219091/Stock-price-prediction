@@ -1,10 +1,10 @@
 ## Stock-price-prediction
 
--This project aims to predict the stock price since Stock data is non-stationary, chaotic, random and
+- This project aims to predict the stock price since Stock data is non-stationary, chaotic, random and
 depends on several technical parameters.
--Datasets are extracted from Yahoo finance and it predicts prices of the stocks more accurately and
+- Datasets are extracted from Yahoo finance and it predicts prices of the stocks more accurately and
 reduces error in prediction using and plot the graph between predicted price and actual price.
--It is implemented using multiple python libraries such as matplotlib, numpy,pandas,etc and built using
+- It is implemented using multiple python libraries such as matplotlib, numpy,pandas,etc and built using
 LSTM model and deployed using Streamlit .
 
 
