@@ -60,10 +60,12 @@ LSTM model and deployed using Streamlit .
 ```
 Pandas 
 Matplotlib
-Seaborn
+Numpy
 Scikit Learn
 Jupyter Notebook
-Django
+Google Colab
+keras
+
 ```
 ### Package Installation
 ```
